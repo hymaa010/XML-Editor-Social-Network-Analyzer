@@ -99,8 +99,6 @@ The project supports **CLI mode** and a **ready-to-run GUI mode** (no Qt install
 
 ---
 
-```
-
 - GUI executable is **prebuilt and ready**
 - Source code for both CLI and GUI is included
 - CLI and GUI share the same processing backend
